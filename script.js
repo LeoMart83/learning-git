@@ -7,3 +7,5 @@ const but = document.getElementById("23");
 but.addEventListener('click', () => console.log('23'));
 
 console.log(but);
+
+console.log('4444');
