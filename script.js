@@ -15,3 +15,5 @@ const colors = [1,2,3];
 but.addEventListener('click', () => span.innerHTML = ++count);
 
 rnd.addEventListener('click', () => document.body.style.background = 'gray');
+
+console.log('git stash');
