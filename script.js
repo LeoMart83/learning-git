@@ -10,11 +10,13 @@ const colors = ['A', 'B', 'C', 'D', 'E', 'F', 0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 let count = 0;
 
-const colors = [1,2,3];
-
 but.addEventListener('click', () => span.innerHTML = ++count);
 
 console.log('new lines for foo');
 
 console.log('make background color gray!');
 rnd.addEventListener('click', () => document.body.style.background = 'gray');
+
+console.log('test');
+
+console.log('test2');
