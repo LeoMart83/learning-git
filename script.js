@@ -4,6 +4,9 @@ console.log('Test 2323232323232323232323');
 
 const but = document.getElementById("23");
 const span = document.getElementById('span');
+const rnd = document.getElementById('rnd');
+
+const colors = ['A', 'B', 'C', 'D', 'E', 'F', 0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 let count = 0;
 
@@ -14,3 +17,4 @@ but.addEventListener('click', () => span.innerHTML = ++count);
 console.log('new lines for foo');
 
 console.log('make background color gray!');
+rnd.addEventListener('click', () => document.body.style.background = 'gray');
