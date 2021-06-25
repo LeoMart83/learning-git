@@ -3,9 +3,8 @@ console.log('Test 2323232323232323232323');
 //window.alert('How is your day?');
 
 const but = document.getElementById("23");
+const span = document.getElementById('span');
 
-but.addEventListener('click', () => console.log('23'));
+let count = 0;
 
-console.log(but);
-
-console.log('2323');
+but.addEventListener('click', () => span.innerHTML = ++count);
