@@ -8,4 +8,4 @@ but.addEventListener('click', () => console.log('23'));
 
 console.log(but);
 
-console.log('4444');
+console.log('2323');
