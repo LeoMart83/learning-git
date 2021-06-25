@@ -17,3 +17,5 @@ const span = document.getElementById('span');
 let count = 0;
 
 but.addEventListener('click', () => span.innerHTML = ++count);
+
+console.log('new lines for foo');
