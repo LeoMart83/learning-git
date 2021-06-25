@@ -7,6 +7,10 @@ const span = document.getElementById('span');
 
 let count = 0;
 
+const colors = [1,2,3];
+
 but.addEventListener('click', () => span.innerHTML = ++count);
 
 console.log('new lines for foo');
+
+console.log('make background color gray!');
