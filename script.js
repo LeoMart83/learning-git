@@ -12,7 +12,8 @@ console.log('some new changes');
 //window.alert('How is your day?');
 
 const but = document.getElementById("23");
+const span = document.getElementById('span');
 
-but.addEventListener('click', () => console.log('23'));
+let count = 0;
 
-console.log(but);
+but.addEventListener('click', () => span.innerHTML = ++count);
