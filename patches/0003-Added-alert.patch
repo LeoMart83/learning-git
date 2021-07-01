@@ -1,7 +1,7 @@
 From afe8c501510cce38571a1f06dc010429cff34300 Mon Sep 17 00:00:00 2001
 From: Leo Mart <mistikleo7@gmail.com>
 Date: Thu, 1 Jul 2021 18:24:18 +0300
-Subject: [PATCH 3/3] Added alert
+Subject: [PATCH 3/4] Added alert
 
 ---
  script.js | 2 ++

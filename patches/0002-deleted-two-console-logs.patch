@@ -1,7 +1,7 @@
 From 84028e266acd83552987e6a4c667bcdd5d68743f Mon Sep 17 00:00:00 2001
 From: Leo Mart <mistikleo7@gmail.com>
 Date: Thu, 1 Jul 2021 18:23:47 +0300
-Subject: [PATCH 2/3] deleted two console logs
+Subject: [PATCH 2/4] deleted two console logs
 
 ---
  script.js | 3 ---
