@@ -27,17 +27,10 @@ console.log('make background color gray!');
 
 rnd.addEventListener('click', () => document.body.style.background = 'gray');
 
-console.log('test');
-
-console.log('test2');
-
 but.addEventListener('click', () => span.innerHTML = ++count);
 
 console.log('git stash');
 
 console.log('Hello From The Other Side');
 
-console.log('Tea');
-
-console.log('New cool feature');
 console.log('I adore tea');
