@@ -12,8 +12,6 @@ const colors = ['A', 'B', 'C', 'D', 'E', 'F', 0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 console.log('Tea');
 
-console.log('New cool feature');
-
 console.log('make background color gray!');
 
 rnd.addEventListener('click', () => document.body.style.background = 'gray');
