@@ -25,3 +25,5 @@ console.log('I adore tea');
 console.log('Squashing is easy, right? - right');
 
 window.alert('Patch');
+
+console.log('line 29');
