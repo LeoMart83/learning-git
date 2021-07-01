@@ -1,5 +1,3 @@
-console.log('definitely new code');
-
 console.log('new changes');
 
 console.log('New new changes');
