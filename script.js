@@ -8,8 +8,13 @@ console.log('New new changes');
 
 console.log('And third new changes');
 
-console.log('Hello From The Other Side');
+console.log('some new changes');
 
-console.log('Tea');
+const but = document.getElementById("23");
+const span = document.getElementById('span');
 
-console.log('New cool feature');
+let count = 0;
+
+but.addEventListener('click', () => span.innerHTML = ++count);
+
+console.log('new lines for foo');
