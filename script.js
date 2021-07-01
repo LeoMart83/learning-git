@@ -21,16 +21,14 @@ console.log('New cool feature');
 
 const colors = [1,2,3];
 
-console.log('new lines for foo');
-
 console.log('make background color gray!');
 
 rnd.addEventListener('click', () => document.body.style.background = 'gray');
 
 but.addEventListener('click', () => span.innerHTML = ++count);
 
-console.log('git stash');
-
 console.log('Hello From The Other Side');
 
 console.log('I adore tea');
+
+console.log('Squashing is easy, right?');
