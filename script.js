@@ -7,3 +7,5 @@ console.log('new changes');
 console.log('New new changes');
 
 console.log('And third new changes');
+
+console.log('some new changes');
