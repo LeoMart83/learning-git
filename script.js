@@ -24,6 +24,6 @@ console.log('Hello From The Other Side');
 
 console.log('I adore tea');
 
-console.log('Squashing is easy, right?');
+console.log('Squashing is easy, right? - right');
 
 window.alert('Patch');
