@@ -17,8 +17,6 @@ console.log('Tea');
 
 console.log('New cool feature');
 
-const colors = [1,2,3];
-
 console.log('make background color gray!');
 
 rnd.addEventListener('click', () => document.body.style.background = 'gray');
