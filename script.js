@@ -4,9 +4,6 @@ console.log('New new changes');
 
 console.log('And third new changes');
 
-console.log('some new changes');
-//window.alert('How is your day?');
-
 const but = document.getElementById("23");
 const span = document.getElementById('span');
 const rnd = document.getElementById('rnd');
