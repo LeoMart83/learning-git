@@ -1,13 +1,8 @@
-console.log('definitely new code');
-
 console.log('new changes');
 
 console.log('New new changes');
 
 console.log('And third new changes');
-
-console.log('some new changes');
-//window.alert('How is your day?');
 
 const but = document.getElementById("23");
 const span = document.getElementById('span');
@@ -34,3 +29,9 @@ console.log('I adore tea');
 console.log('Squashing is easy, right?');
 
 console.log('the line that goes from suashing branch');
+
+console.log('Squashing is easy, right? - right');
+
+window.alert('Patch');
+
+console.log('line 29');
