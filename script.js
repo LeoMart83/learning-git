@@ -32,3 +32,5 @@ console.log('Hello From The Other Side');
 console.log('I adore tea');
 
 console.log('Squashing is easy, right?');
+
+console.log('the line that goes from suashing branch');
