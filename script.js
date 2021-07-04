@@ -32,8 +32,4 @@ console.log('the line that goes from suashing branch');
 
 console.log('Squashing is easy, right? - right');
 
-window.alert('Patch');
-
-console.log('This aint line 29 any more');
-
-console.log('new 39 line');
+console.log('deleted 3 lines');
