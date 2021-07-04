@@ -34,6 +34,6 @@ console.log('Squashing is easy, right? - right');
 
 window.alert('Patch');
 
-console.log('line 29');
+console.log('This aint line 29 any more');
 
 console.log('new 39 line');
