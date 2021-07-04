@@ -27,3 +27,5 @@ console.log('Squashing is easy, right? - right');
 window.alert('Patch');
 
 console.log('line 29');
+
+console.log('the line that gose from suashing branch');
