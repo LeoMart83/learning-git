@@ -29,3 +29,5 @@ console.log('Squashing is easy, right? - right');
 console.log('New needed line of code');
 
 console.log('second needed line of code');
+
+console.log('blabla new feature');
