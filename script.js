@@ -26,10 +26,6 @@ console.log('Hello From The Other Side');
 
 console.log('I adore tea');
 
-consoole.log('Squashing is easy, right?'); // changed this line
-
 console.log('the line that goes from suashing branch');
 
 console.log('Squashing is easy, right? - right');
-
-// deleted this line
